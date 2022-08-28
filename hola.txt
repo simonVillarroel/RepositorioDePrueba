@@ -1,2 +1,6 @@
 Hola soy un archivo de texto
+<<<<<<< HEAD
 Hola, aca hay un cambio
+=======
+Hola soy Simon
+>>>>>>> 4bb277c215e367b09d98e1ca5cfced0a8890be1b
